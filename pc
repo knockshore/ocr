@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 train_code/train_ctpn/ctpn_predict.py $1
